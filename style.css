@@ -1,0 +1,19 @@
+body {
+  font-family: 'Noto Sans JP', sans-serif;
+  padding: 40px;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  font-size: 28px;
+  color: #222;
+}
+
+.cta {
+  background-color: #0066cc;
+  color: #fff;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+}
